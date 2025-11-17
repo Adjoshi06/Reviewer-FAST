@@ -10,14 +10,6 @@ An intelligent code review system that learns from your feedback to provide bett
 - 🌐 **Web Interface**: Simple, clean UI for viewing reviews and providing feedback
 - 🔗 **GitHub Integration**: Fetches PRs directly from GitHub
 
-## Architecture
-
-- **Backend**: Python + FastAPI
-- **LLM**: Ollama with Llama 3.1 8B standard, modular design
-- **Vector DB**: ChromaDB for learning memory
-- **Frontend**: Vanilla JavaScript + HTML/CSS
-- **GitHub**: PyGithub for API integration
-
 ## Prerequisites
 
 1. **Python 3.8+**
